@@ -10,7 +10,7 @@ var nave = {
             "Despegue en 3, 2, 1 … OH NO, ESPEREN, ALGO SE ROMPIÓ!"
         )
 
-        alert("BOOOM!")
+        alert("KA BOOM!")
     }
 }
 
